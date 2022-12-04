@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amrut-bhuva
+- 👋 Hi, I’m Amrut Bhuva
 - 👀 I’m interested in learning new technologies and tools
 - 🌱 I’m currently learning python
 
